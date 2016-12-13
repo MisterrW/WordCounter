@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WordCounter</string>
+    <string name="question">Type your question here</string>
+    <string name="instructions">Enter a sentence and I will tell you how many times each word appears.</string>
+    <string name="main_title">Sentence Word Counter</string>
+    <string name="answer">Word counts:</string>
 </resources>
